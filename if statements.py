@@ -1,14 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed May 13 22:16:30 2020
-
-@author: gloria
-"""
-food = "mango"
-food!="mango"
-age_0 = 22 
-age_1 = 18 
-age_0 >= 21 and age_1 >= 21
+# simple if statement to show grades
 
 marks = int(input(">"))
 if (marks >= 70):
